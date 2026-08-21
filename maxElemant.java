@@ -1,4 +1,4 @@
-class task3{
+class maxElement{
     public static void main(String[] args){
         int m[] = {4,8,2,5,9};
         int max = m[0];
