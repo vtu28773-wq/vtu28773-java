@@ -1,4 +1,4 @@
-class Task10 {
+class buildarray {
     public int[] buildArray(int[] nums) {
 
         int[] ans = new int[nums.length];
